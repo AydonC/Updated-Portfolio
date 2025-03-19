@@ -36,7 +36,7 @@ const About = () => {
                     <div className="flex flex-wrap items-center mt-4 space-x-4 sm:space-x-2 md:space-x-4 lg:space-x-6">
                         <div className="w-36 h-36 rounded-full overflow-hidden border-2 border-white bg-gray-300 sm:w-28 sm:h-28 md:w-36 md:h-36 lg:w-48 lg:h-48">
                             <img
-                                src="public/aydon.jpg"
+                                src="/aydon.jpg"
                                 alt="Profile"
                                 className="w-full h-full object-cover"
                             />
