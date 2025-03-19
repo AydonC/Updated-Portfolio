@@ -48,7 +48,7 @@ const About = () => {
                         </div>
 
                         <img
-                            src="public/signature.png"
+                            src="/signature.png"
                             alt="Profile"
                             className="w-36 h-36 translate-x-1/2 sm:w-28 sm:h-28 md:w-36 md:h-36 lg:w-48 lg:h-48"
                         />
