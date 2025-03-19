@@ -54,7 +54,7 @@ const ProfilePage = () => {
                     <div className="bg-blue-100 w-full h-full rounded-lg overflow-hidden border rounded">
                         <div >
                             <img
-                                src="public/banner.jpeg"
+                                src="/banner.jpeg"
                                 alt="Profile"
                                 className="w-full h-full object-cover"
                             />
@@ -65,7 +65,7 @@ const ProfilePage = () => {
                     <div className="absolute -bottom-24 left-1 transform translate-x-1/3">
                         <div className="w-36 h-36 rounded-full overflow-hidden border-2 border-white-900 bg-gray-300 ">
                             <img
-                                src="public/aydon.jpg"
+                                src="/aydon.jpg"
                                 alt="Profile"
                                 className="w-full h-full object-cover"
                             />
