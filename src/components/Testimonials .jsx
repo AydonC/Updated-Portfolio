@@ -1,30 +1,8 @@
-// src/components/TwitterFeed.jsx
 import React from 'react';
 
 // Example posts data (easy to modify in code)
 const postsData = [
-    {
-        id: 1,
-        user: 'Aydon Cupido',
-        username: '@aydonC',
-        profileImage: '/aydon.jpg',
-        content: 'Just sharing my thoughts here.',
-    },
-    {
-        id: 2,
-        user: 'Aydon Cupido',
-        username: '@aydonC',
-        profileImage: '/aydon.jpg', 
-        content: 'Just sharing my thoughts here.',
-    },
-    {
-        id: 3,
-        user: 'Aydon Cupido',
-        username: '@aydonC',
-        profileImage: '/aydon.jpg', 
-        content: 'Loving the new Twitter layout!',
-    },
-
+   
 ];
 
 const Testimonials  = () => {
